@@ -10,7 +10,7 @@ class ProductFixture extends Fixture
 {
     public function load(ObjectManager $manager)
     {
-        for ($i = 0; $i < 20; $i++) {
+        for ($i = 0; $i < 3; $i++) {
             $product = new Product();
             $product->setName('Product '.$i);
             $product->setPrice(mt_rand(10, 100));

@@ -1,0 +1,1 @@
+{"version":1,"defects":{"App\\Tests\\ProductControllerTest::test_product_can_be_deleted":4,"App\\Tests\\ProductControllerTest::test_product_page_loads":4},"times":{"App\\Tests\\ProductControllerTest::test_product_can_be_deleted":0.002,"App\\Tests\\ProductControllerTest::test_product_page_loads":0.002}}
